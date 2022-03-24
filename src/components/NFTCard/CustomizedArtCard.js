@@ -110,3 +110,4 @@ const CustomizedArtCard = ({ item }) => {
 };
 
 export default CustomizedArtCard;
+ 

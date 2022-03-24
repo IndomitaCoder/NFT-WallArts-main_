@@ -34,3 +34,4 @@ const CategoryCard = ({ img, name, desc, id }) => {
 };
 
 export default CategoryCard;
+ 

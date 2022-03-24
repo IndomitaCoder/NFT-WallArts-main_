@@ -27,3 +27,4 @@ export const { addingCart, initialize, clearResults, setCart } = cartSlice.actio
 export const orderedProducts = (state) => state.cart;
 
 export default cartSlice.reducer;
+ 

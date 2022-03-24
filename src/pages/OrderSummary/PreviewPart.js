@@ -50,3 +50,4 @@ const PreviewPart = ({selectOrder, selectedOrder}) => {
 };
 
 export default PreviewPart;
+ 

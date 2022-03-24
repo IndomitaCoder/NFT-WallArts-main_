@@ -205,3 +205,4 @@ const PreviewPart = ({ orderClickHandle, stripeRef, amount, payMethod, orderedDa
 };
 
 export default PreviewPart;
+ 

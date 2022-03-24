@@ -126,3 +126,4 @@ const Checkout = ({ name, description, amount, stripeRef, payMethod, orderedData
 };
 
 export default Checkout;
+ 

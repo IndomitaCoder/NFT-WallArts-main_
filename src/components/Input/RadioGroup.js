@@ -39,3 +39,4 @@ export default function RadioGroup({ list, onChangeHandle, checkedId }) {
     </div>
   );
 }
+ 

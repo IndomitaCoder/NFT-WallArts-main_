@@ -45,3 +45,4 @@ const NumberInputSM = ({ onChangeHandle, value }) => {
 };
 
 export default NumberInputSM;
+ 

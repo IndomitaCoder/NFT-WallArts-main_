@@ -185,3 +185,4 @@ const ProfileNFTCard = ({ item }) => {
 };
 
 export default ProfileNFTCard;
+ 

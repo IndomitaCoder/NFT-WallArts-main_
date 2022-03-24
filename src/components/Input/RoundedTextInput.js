@@ -35,3 +35,4 @@ const RoundedTextInput = ({ placeholder, label, defaultValue, onChangeHandle, ty
 };
 
 export default RoundedTextInput;
+ 

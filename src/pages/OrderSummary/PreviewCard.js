@@ -37,3 +37,4 @@ const PreviewCard = ({ info, status, onClickHandle, isSelected }) => {
 };
 
 export default PreviewCard;
+ 

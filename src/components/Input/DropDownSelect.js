@@ -74,3 +74,4 @@ const DropDownSelect = ({ list, onChangeHandle }) => {
 };
 
 export default DropDownSelect;
+ 

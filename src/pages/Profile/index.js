@@ -323,3 +323,4 @@ const Profile = ({ onAvatarChanged }) => {
 };
 
 export default Profile;
+ 

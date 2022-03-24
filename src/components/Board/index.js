@@ -16,3 +16,4 @@ const Board = ({ children, onClick }) => {
 };
 
 export default Board;
+ 

@@ -253,3 +253,4 @@ const ConnectButton = ({avatarReload}) => {
 };
 
 export default ConnectButton;
+ 

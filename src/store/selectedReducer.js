@@ -57,3 +57,4 @@ export const {
 export const selectedData = (state) => state.selectedData;
 
 export default selectedReducer.reducer;
+ 

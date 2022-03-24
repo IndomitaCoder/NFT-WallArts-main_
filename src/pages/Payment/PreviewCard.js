@@ -125,3 +125,4 @@ const PreviewCard = ({ info, key, onChangeItemInfo, onChangeQuantity }) => {
 };
 
 export default PreviewCard;
+ 

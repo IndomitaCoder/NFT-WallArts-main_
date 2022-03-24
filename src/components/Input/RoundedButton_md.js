@@ -19,3 +19,4 @@ const RoundedButtonMD = ({ active, text, onButtonClick, icon, fullWidth, classNa
 };
 
 export default RoundedButtonMD;
+ 

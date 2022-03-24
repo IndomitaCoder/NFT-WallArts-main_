@@ -45,3 +45,4 @@ const NumberInput = ({ list, onChangeHandle }) => {
 };
 
 export default NumberInput;
+ 

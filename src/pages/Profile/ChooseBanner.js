@@ -277,4 +277,4 @@ function dataURItoBlob(croppedImage) {
   return new Blob([int8Array], { type: 'image/png' });
 }
 
-export default UploadBanner;
+export default UploadBanner; 
